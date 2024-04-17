@@ -10,8 +10,8 @@ These apps leverage the power of technology and online platforms to streamline t
 - Ayana Manoj
 ## Link to product walkthrough
 [link to video](Link-here)
-Add your ppt to your repository  
-Also Add the name below.
+ppt:share a bite
+Share-a-bite
 
 ## How it Works ?
 Explaining the working of project
