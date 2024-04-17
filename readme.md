@@ -1,9 +1,11 @@
-# Share a bite
+# Share-a-bite
 Long Description about project. This project do that. This project is awesome...
 
 ## Team members
-- Name 1
-- Name 2
+- Fathima Shahma VP
+- Nihad Ahamed VP
+- Jayasurya CJ
+- Ayana Manoj
 ## Link to product walkthrough
 [link to video](Link-here)
 Add your ppt to your repository  
