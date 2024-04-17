@@ -1,5 +1,7 @@
 # Share-a-bite
-Long Description about project. This project do that. This project is awesome...
+The app matches supply with demand, facilitating the redistribution of surplus food and reducing food waste. This technology empowers communities to address hunger by efficiently allocating resources and ensuring that nutritious food reaches those in need.​
+
+These apps leverage the power of technology and online platforms to streamline the donation process, making it quick, secure, and accessible to a wide audience​
 
 ## Team members
 - Fathima Shahma VP
