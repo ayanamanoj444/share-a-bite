@@ -14,7 +14,7 @@ share a bite
 
 ## How it Works ?
 Explaining the working of project
-[prototype/ui of project](./ prototype(UI))
+[prototype/ui of project](./prototype(UI))
 
 
 ## Libraries used
