@@ -9,12 +9,12 @@ These apps leverage the power of technology and online platforms to streamline t
 - Jayasurya CJ
 - Ayana Manoj
 ## Link to product walkthrough
-[presentationfile](./shareabite.pptx)
+[presentation file](./shareabite.pptx)
 share a bite
 
 ## How it Works ?
 Explaining the working of project
-Embed video of project demo
+[prototype/ui of project](./https://rb.gy/0mj02i)
 
 
 ## Libraries used
