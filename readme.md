@@ -14,7 +14,7 @@ share a bite
 
 ## How it Works ?
 Explaining the working of project
-[prototype/ui of project](./https://rb.gy/0mj02i)
+[prototype/ui of project](./https://www.figma.com/proto/eCsiK3rh7iutsRmGTpWxHI/Untitled?type=design&node-id=1-2&t=RR3sYibU7mUPru9c-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
 
 
 ## Libraries used
